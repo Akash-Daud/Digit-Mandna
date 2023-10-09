@@ -1,0 +1,306 @@
+
+
+.about{
+    margin-top: 30px;
+    align-items: center;
+    color: chocolate;
+    width: 100%;
+  
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    /* Ensures it takes the full viewport height */
+  
+}
+.about-scroll{
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    color: red;
+    width: 50%;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.imgp{
+    width: 40%;
+    height: 400px;
+    background-image: url("../maphoto.jpg");
+    background-size: cover;
+    position: relative;
+    background-position: top center;
+    margin: 10px;
+    
+    
+}
+.contain{
+    margin: 20px;
+    height: 300px;
+     
+     width: 50%;
+
+}
+.imgq{
+    width: 40%;
+    height: 300px;
+    background-image: url("../grampanchayat.jpg");
+    background-size: cover;
+    position: relative;
+    background-position: top center;
+    margin: 10px;
+
+}
+.imgr{
+    width: 50%;
+    height: 400px;
+    background-image: url("../kamas.jpg");
+    background-size: cover;
+    position: relative;
+    background-position: top center;
+    margin: 30px;
+}
+#hero {
+    
+    color:white;
+    font-family:Segoe UI;
+    font-size: 20px;
+    padding: 14px;
+    display: flex;
+padding-left: 20%;
+padding-bottom: 20%;
+    align-items: center;
+    background-image: url(../bg.jfif);
+}
+.detail{
+    display: flex;
+    margin: 20px;
+
+}
+details{
+    border: 1px solid black;
+    margin: 50px;
+    background-color: black;
+}
+
+h1{
+    margin-top: 30px;
+    align-items: center;
+    color: chocolate;
+    width: 100%;
+  
+    display: flex;
+    justify-content: center; 
+    
+}
+.address{
+    font-size: 25px;
+}
+.map{
+    border: 2px solid black;
+    margin: 20px;
+}
+#heroe {
+    background-image: url("../bg2.jpg");
+    background-size: cover;
+    position: relative;
+    background-position: top center;
+    z-index: 1;
+    height: 600px;
+ }
+ #hero1 {
+    
+    color:white;
+    font-family:Segoe UI;
+    font-size: 20px;
+    padding: 14px;
+    display: flex;
+padding-left: 20%;
+    align-items: center;
+    height: 700px;
+    background-image: url(../bg33.gif);
+    background-size: cover;
+    position: relative;
+    background-position: top center;
+    z-index: 1;
+    padding-left: 35%;
+    padding-bottom: 25%;
+
+}
+.navratri{
+ display: flex;
+justify-content: center;
+    margin-top: 30px;
+    width: 100%;
+    background-color: rgb(236, 190, 213);
+    
+    font-weight: 600;
+    border: 1px solid black;
+    border-radius: 40%;
+    padding: 10px;
+  
+
+}
+.maharaj{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.img-san{
+    margin-right: 50px;
+    border: 1px solid black;
+    
+    
+}
+.maharaj{
+    margin: 20px;
+}
+.name-san{
+    font-weight: 800;
+    color: chocolate;
+    margin-left: 20px;
+    
+}
+.day1{
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: rgb(236, 155, 62);
+    margin: 30px;
+}
+.start{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+.starts{font-size: 40px;
+    background: -webkit-linear-gradient(#ac8484, #8de969);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;}
+
+    .startss{
+        font-size: 30px;
+        color: brown;
+    }
+    .aan{
+        display: flex;
+        justify-content: space-between;
+        margin:50px;
+        color: orange;
+        font-size: 30px;
+    }
+    .rupali{
+        color: orange;
+    }
+    .day2{
+        border: 1px solid black;
+        border-radius: 50%;
+        background-color: white;
+        margin: 30px;
+    }.day3{
+        border: 1px solid black;
+        border-radius: 50%;
+        background-color: rgb(240, 93, 93);
+        margin: 30px;
+    }.day4{
+        border: 1px solid black;
+        border-radius: 50%;
+        background-color:rgb(167, 111, 219);
+        margin: 30px;
+    }.day5{
+        border: 1px solid black;
+        border-radius: 50%;
+        background-color: rgb(224, 224, 91);
+        margin: 30px;
+    }.day6{
+        border: 1px solid black;
+        border-radius: 50%;
+        background-color: rgb(109, 226, 109);
+        margin: 30px;
+    }.day7{
+        border: 1px solid black;
+        border-radius: 50%;
+        background-color: grey;
+        margin: 30px;
+    }.day8{
+        border: 1px solid black;
+        border-radius: 50%;
+        background-color: purple;
+        margin: 30px;
+    }.day9{
+        border: 1px solid black;
+        border-radius: 50%;
+        background-color:rgb(42, 80, 42);
+        margin: 30px;
+    }
+    .day22{
+        color: black;
+    }
+    .day33{
+        color: red;
+    }
+    .day44{
+        color: blue;
+    }
+    .day55{
+        color: yellow;
+    }
+    .day66{
+        color: green;
+    }
+    .day77{
+        color: gray;
+    }
+    .day88{
+        color: purple;
+    }
+    .day99{
+        color: rgb(54, 66, 54);
+    }
+    .aan2{
+        display: flex;
+        justify-content: space-between;
+        margin:50px;
+        color:black;
+        font-size: 30px;
+    }.aan3{
+        display: flex;
+        justify-content: space-between;
+        margin:50px;
+        color: red;
+        font-size: 30px;}
+        .aan4{
+            display: flex;
+            justify-content: space-between;
+            margin:50px;
+            color:blue;
+            font-size: 30px;}
+            .aan5{
+                display: flex;
+                justify-content: space-between;
+                margin:50px;
+                color:yellow;
+                font-size: 30px;}
+                .aan6{
+                    display: flex;
+                    justify-content: space-between;
+                    margin:50px;
+                    color: green;
+                    font-size: 30px;}
+                    .aan7{
+                        display: flex;
+                        justify-content: space-between;
+                        margin:50px;
+                        color: gray;
+                        font-size: 30px;}
+                        .aan8{
+                            display: flex;
+                            justify-content: space-between;
+                            margin:50px;
+                            color: purple;
+                            font-size: 30px;}
+                            .aan9{
+                                display: flex;
+                                justify-content: space-between;
+                                margin:50px;
+                                color: rgb(26, 34, 26);
+                                font-size: 30px;}

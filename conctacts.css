@@ -1,0 +1,64 @@
+.gramsevak{
+ margin: 20px;
+}
+.tables{
+ margin: 20px;
+  width: 800px;
+  border: 2px solid black ;
+  text-align: center;
+  margin-left: 17%;
+}
+.headline{
+    margin-top: 20%;
+    margin: 20px;
+    
+}
+
+.gramsevakdada{
+  display: flex;
+  justify-content: space-between;}
+   
+  th{
+    border: 1px solid black;
+    background-color: chocolate;
+  }
+
+tr{
+  border: 1px solid black;
+}
+
+td{
+  border: 1px solid black;
+  font-size: larger;
+  font-weight: 300;
+  background-color: darkgray;
+}
+.pawar{
+  border: 2px solid black;
+  margin-right: 30px;
+}
+ .forms{
+  width: 30%;
+  border: 1px solid black;
+  padding: 30px;
+  margin-left: 35%;
+  background-color: darksalmon;
+
+ }
+ .button{
+  background-color: rgb(50, 99, 189);
+ }
+ .button:hover{
+    font-size: larger;
+    background-color: chartreuse;
+ }
+ .jilhaparishad{
+     display: flex;
+     justify-content:space-between;
+ }
+ h1 {
+  
+  background: -webkit-linear-gradient(#ac8484, #8de969);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
