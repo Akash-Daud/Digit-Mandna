@@ -25,7 +25,7 @@
 .imgp{
     width: 40%;
     height: 400px;
-    background-image: url("../maphoto.jpg");
+    background-image: url("maphoto.jpg");
     background-size: cover;
     position: relative;
     background-position: top center;
@@ -43,7 +43,7 @@
 .imgq{
     width: 40%;
     height: 300px;
-    background-image: url("../grampanchayat.jpg");
+    background-image: url("grampanchayat.jpg");
     background-size: cover;
     position: relative;
     background-position: top center;
@@ -53,7 +53,7 @@
 .imgr{
     width: 50%;
     height: 400px;
-    background-image: url("../kamas.jpg");
+    background-image: url("kamas.jpg");
     background-size: cover;
     position: relative;
     background-position: top center;
@@ -69,7 +69,7 @@
 padding-left: 20%;
 padding-bottom: 20%;
     align-items: center;
-    background-image: url(../bg.jfif);
+    background-image: url(bg.jfif);
 }
 .detail{
     display: flex;
@@ -100,7 +100,7 @@ h1{
     margin: 20px;
 }
 #heroe {
-    background-image: url("../bg2.jpg");
+    background-image: url("bg2.jpg");
     background-size: cover;
     position: relative;
     background-position: top center;
@@ -117,7 +117,7 @@ h1{
 padding-left: 20%;
     align-items: center;
     height: 700px;
-    background-image: url(../bg33.gif);
+    background-image: url(bg33.gif);
     background-size: cover;
     position: relative;
     background-position: top center;
