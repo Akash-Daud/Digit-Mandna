@@ -150,10 +150,12 @@ footer{
  padding-left: 70px;
   }
      
-  .gram{
-    
-  }
-  
-  .chandika{
-     
-  }
+  .yethe{
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 30%;
+    padding-top: 1%;
+     background-color: black;
+
+    border: 1px solid black;
+}
